@@ -1,0 +1,9 @@
+F:\PRACTICS\Employee\Employee\bin\Debug\Employee.exe.config
+F:\PRACTICS\Employee\Employee\bin\Debug\Employee.exe
+F:\PRACTICS\Employee\Employee\bin\Debug\Employee.pdb
+F:\PRACTICS\Employee\Employee\obj\Debug\Employee.csprojResolveAssemblyReference.cache
+F:\PRACTICS\Employee\Employee\obj\Debug\Employee.EmployeeAppUI.resources
+F:\PRACTICS\Employee\Employee\obj\Debug\Employee.Properties.Resources.resources
+F:\PRACTICS\Employee\Employee\obj\Debug\Employee.csproj.GenerateResource.Cache
+F:\PRACTICS\Employee\Employee\obj\Debug\Employee.exe
+F:\PRACTICS\Employee\Employee\obj\Debug\Employee.pdb
